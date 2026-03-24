@@ -1,2 +1,3 @@
-2026/03/24-16:48:21.411 1d18 Creating DB E:\MDS2026\AI\AI_MiniProject\GD2P01_AIMiniProject\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/03/24-16:48:21.419 1d18 Reusing MANIFEST E:\MDS2026\AI\AI_MiniProject\GD2P01_AIMiniProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/24-19:03:24.118 4b6c Reusing MANIFEST E:\MDS2026\AI\AI_MiniProject\GD2P01_AIMiniProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/03/24-19:03:24.119 4b6c Recovering log #3
+2026/03/24-19:03:24.119 4b6c Reusing old log E:\MDS2026\AI\AI_MiniProject\GD2P01_AIMiniProject\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 
