@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/Level/LVL_GameLevel.umap",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/FirstPerson/Blueprints/BP_NPC.uasset",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/NPC/BP_NPC.uasset",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/NPC/BP_NPCCTRL.uasset",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/NPC/BB_NPCBoard.uasset",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/NPC/BT_NPCTree.uasset",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/NPC/Tasks/BTTask_Wander.uasset",
+				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/NPC/Tasks/BTTask_ClearVariable.uasset",
 				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/Blueprints/BP_Ramp.uasset",
 				"E:/MDS2026/AI/AI_MiniProject/GD2P01_AIMiniProject/Content/Level/NewMap.umap"
 			]

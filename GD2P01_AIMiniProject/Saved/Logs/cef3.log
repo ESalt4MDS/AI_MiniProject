@@ -1,4 +1,4 @@
-[23204:33164:0324/201926.982:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[23204:33164:0324/201927.036:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[30808:5196:0324/201930.738:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-AED60B199AD7550B9D1C20592E31F866 will be ignored
-[23204:33164:0324/202019.721:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[38556:27596:0326/180828.191:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[38556:27596:0326/180828.253:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[37876:29168:0326/180833.458:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4734B8A310D7DCAF3EDB3FFB02AB8076 will be ignored
+[38556:27596:0326/182641.581:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
